@@ -7,7 +7,7 @@
 
 Thanks for visiting my GitHub account!
 
-<img src ="https://cdn-icons-png.flaticon.com/512/919/919826.png" height = "200px" width = "200px"/> **Database Management Systems (DBMS)** are software systems used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.. [see-more](https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/)
+<img src ="https://www.svgrepo.com/show/525311/database.svg" height = "200px" width = "200px"/> **Database Management Systems (DBMS)** are software systems used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.. [see-more](https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/)
 
 ## For Information
 
@@ -27,7 +27,7 @@ Thanks for visiting my GitHub account!
 
 - visit ->https://www.microsoft.com/en-us/download/details.aspx?id=101064
 
-## Project Roadmap
+## Project Features
 
 |                                |                                |
 | :----------------------------: | :----------------------------: |
